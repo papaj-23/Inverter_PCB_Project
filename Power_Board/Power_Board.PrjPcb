@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TVWVWLUS
 
 [Document2]
 DocumentPath=..\Libraries\bridge_1ph.SchLib
@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NEQNETFV
 
 [Document3]
 DocumentPath=..\Libraries\CONV_IRM-10-12.PcbLib
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=STILYOLQ
 
 [Document6]
 DocumentPath=..\Libraries\IRM-10-5.SchLib
@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LJSZQXDV
 
 [Document7]
 DocumentPath=..\Libraries\IRM-10-12.SchLib
@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UGWLSBAB
 
 [Document8]
 DocumentPath=..\Libraries\KBPC.PcbLib
@@ -216,7 +216,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EBUTNZDI
 
 [Document11]
 DocumentPath=..\Libraries\Isolated_amplifiers.PcbLib
@@ -250,7 +250,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WWIZITKU
 
 [Document13]
 DocumentPath=..\Libraries\Optoelectronics.PcbLib
@@ -284,7 +284,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TINAUCJO
 
 [Document15]
 DocumentPath=..\Libraries\Voltage_regulators.PcbLib
@@ -318,7 +318,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UNACUZOD
 
 [Document17]
 DocumentPath=..\Libraries\R40N3011851012.SchLib
@@ -335,7 +335,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BQVGWNSB
 
 [Document18]
 DocumentPath=..\Libraries\R40N3011851012.PcbLib
@@ -369,7 +369,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WPXRDVSE
 
 [Document20]
 DocumentPath=..\Libraries\Connectors.PcbLib
@@ -403,7 +403,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FUECPUDN
 
 [Document22]
 DocumentPath=..\Libraries\Diodes.PcbLib
@@ -488,7 +488,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BILVAKWN
 
 [Document27]
 DocumentPath=Input.SchDoc
@@ -539,7 +539,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ABRREYFN
 
 [Document30]
 DocumentPath=..\Libraries\fuses.PcbLib
@@ -573,7 +573,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DQKANICH
 
 [Document32]
 DocumentPath=Power_Board.BomDoc
@@ -624,7 +624,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FQMREJYD
 
 [Document35]
 DocumentPath=..\Libraries\TestPoints.PcbLib
@@ -709,7 +709,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YMJGITCV
 
 [Document40]
 DocumentPath=..\Libraries\CONV_IRM-10-5.PcbLib
@@ -764,7 +764,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
@@ -777,7 +777,7 @@ TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
-PrintQuality=-4
+PrintQuality=-3
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1

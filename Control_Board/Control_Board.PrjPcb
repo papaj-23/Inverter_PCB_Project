@@ -524,23 +524,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXKGFVQC
 
-[Document29]
-DocumentPath=Power_distribution.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DLDXKDGA
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
