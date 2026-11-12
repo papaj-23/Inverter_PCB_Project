@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J6-1
+Removed Pin From Net: NetName=NetD2_1 Pin=J6-2
+Change Component Footprint: Designator=J6 Old Footprint=S2B-XH-A-1 (LF)(SN) New Footprint=JST_B2B-XH-A_(LF)(SN)
+Change Component Footprint: Designator=J5 Old Footprint=T821112A1S100CEU New Footprint=DS1013-14SSIBG
+Change Component Comment : Designator=J6 Old Comment=S2B-XH-A-1 (LF)(SN) New Comment=JST_B2B-XH-A_(LF)(SN)
+Change Component Comment : Designator=J5 Old Comment=T821112A1S100CEU New Comment=DS1013-14SSIBG
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Added Pin To Net: NetName=3V3 Pin=J5-13
+Added Pin To Net: NetName=GND Pin=J5-14
+Added Pin To Net: NetName=NetD2_1 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2

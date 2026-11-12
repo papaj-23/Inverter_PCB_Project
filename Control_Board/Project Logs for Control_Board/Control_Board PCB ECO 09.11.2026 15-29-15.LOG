@@ -1,0 +1,30 @@
+Added Component: Designator=D4(LTST-C171K)
+Added Component: Designator=D5(LTST-C171K)
+Added Component: Designator=D6(LTST-C171K)
+Added Component: Designator=R19(RESISTOR_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESISTOR_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESISTOR_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetC19_1 Pin=D6-2
+Added Pin To Net: NetName=BRAKE Pin=R19-1
+Added Pin To Net: NetName=PRECHARGE Pin=R20-1
+Added Pin To Net: NetName=3V3 Pin=R21-1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R19-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R20-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R21-2
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=Control_Board Member=Component D4 LTST-C171KRKT
+Added Member To Class: ClassName=Control_Board Member=Component D5 LTST-C171KRKT
+Added Member To Class: ClassName=Control_Board Member=Component D6 LTST-C171KRKT
+Added Member To Class: ClassName=Control_Board Member=Component R19 680R
+Added Member To Class: ClassName=Control_Board Member=Component R20 680R
+Added Member To Class: ClassName=Control_Board Member=Component R21 680R

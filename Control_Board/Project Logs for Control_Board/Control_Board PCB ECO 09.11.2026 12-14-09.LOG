@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D1 Old Footprint=THT_diode New Footprint=LTST-C171K
+Change Component Footprint: Designator=D3 Old Footprint=THT_diode New Footprint=LTST-C171K
+Change Component Comment : Designator=R15 Old Comment=2k2 New Comment=680R
+Change Component Comment : Designator=R16 Old Comment=2k2 New Comment=680R
+Change Component Comment : Designator=D3 Old Comment=THT_diode New Comment=LTST-C171KRKT
+Change Component Comment : Designator=D1 Old Comment=THT_diode New Comment=LTST-C171KSKT
