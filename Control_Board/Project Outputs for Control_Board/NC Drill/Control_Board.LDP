@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Ladak\Desktop\Altium projekty\Falownik_magisterka\PCB_Project\Control_Board\Control_Board.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=control_board-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=control_board-rectholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=control_board-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

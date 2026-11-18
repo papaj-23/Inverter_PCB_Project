@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=AUX_OUT Pin=J5-3
+Removed Pin From Net: NetName=MAIN_OUT Pin=J5-4
+Removed Pin From Net: NetName=~MAIN_OUT Pin=J5-6
+Removed Pin From Net: NetName=~N_OUT Pin=J5-10
+Removed Pin From Net: NetName=PRECHARGE Pin=J5-12
+Removed Pin From Net: NetName=GND Pin=J5-13
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=~N_OUT Pin=J5-4
+Added Pin To Net: NetName=AUX_OUT Pin=J5-6
+Added Pin To Net: NetName=MAIN_OUT Pin=J5-10
+Added Pin To Net: NetName=~MAIN_OUT Pin=J5-12
+Added Pin To Net: NetName=PRECHARGE Pin=J5-13
